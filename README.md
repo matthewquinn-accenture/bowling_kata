@@ -8,11 +8,11 @@ $ yarn install
 ```
 
 ### Automation
-Open .bash_profile
+Open .bash_profile in your editor
 
 ```sh
 $ cd
-$ (your editor *nano, atom, code, blah blah*) .bash_profile
+$ (atom, code, blah blah ) .bash_profile
 ```
 Paste the following function into .bash_profile
 
