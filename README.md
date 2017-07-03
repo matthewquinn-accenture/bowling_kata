@@ -12,7 +12,7 @@ Open .bash_profile
 
 ```sh
 $ cd
-$ (your editor * nano, atom, code, blah blah) .bash_profile
+$ (your editor *nano, atom, code, blah blah*) .bash_profile
 ```
 Paste the following function into .bash_profile
 
