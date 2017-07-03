@@ -19,14 +19,13 @@ function Kata() {
     git clone https://github.com/aurbina83/KataENV.git "$1" &&
     cd "$1" &&
     yarn install &&
-    code . &&
-    npm test;
+    code .
 }
 ```
 
 Save it and restart terminal. 
 
-This function will create your project, open your editor, and run the initial canary test.
+This function will create your project, and open your editor.
 Just run Kata "Your project name"
 
 ```sh
